@@ -3,7 +3,7 @@
  */
 const puppeteer = require('puppeteer');
 
-const path = 'file://' + __dirname + '/_cloned-app/index.html'
+const path = 'file://' + __dirname + '/../_cloned-app/index.html'
 let page;
 let browser;
 
